@@ -1,6 +1,6 @@
 ## 🔭: Who am I?
 
-- **Name:** Akio Taniguchi (谷口 暁星)
+- **Name:** Yuki Yoshimura (吉村勇紀)
 - **Job:** JSPS Research Fellowship for Young Scientists DC1 (2020-) at Univ. of Tokyo
 - **Research field:** Astrochemistry, Submillimeter galaxies, Radio astronomy dara reduction
 
